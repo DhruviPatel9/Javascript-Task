@@ -19,10 +19,15 @@ let valueNumber= Number(score)
 
 let isLoggedIn= "Dhruvi"
 let booleanLoggedIn = Boolean(isLoggedIn)
-console.log(booleanLoggedIn);
+// console.log(booleanLoggedIn);
 
 //"1"=>true
 //""=>flase
 //"Dhruvi"=>true
 
+let someNumber ="33"
+
+let stringNumber=String(someNumber)
+console.log(stringNumber);
+console.log(typeof stringNumber);
 
